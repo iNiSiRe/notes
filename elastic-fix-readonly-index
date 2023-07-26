@@ -1,0 +1,2 @@
+PUT _all/_settings
+{"index.blocks.read_only_allow_delete": null}
